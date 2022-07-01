@@ -1,0 +1,44 @@
+{
+  "hotels": [
+    {
+      "name": "BOOK",
+      "ratings": "3.4",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "HARD COVER",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVVX7wQNYzk06uL-gJKmALyTxoJqnUKlBZg&usqp=CAU"
+    },
+    {
+      "name": "GUITAR",
+      "ratings": "2.4",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "ACOUSTIC",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+       "imageUrl": "https://musicindustryhowtoimages.s3.amazonaws.com/wp-content/uploads/2019/12/20014339/how-many-strings.jpg"
+    },
+    {
+      "name": "Leather Jacket",
+      "ratings": "5.0",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "black",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "https://cdn.luxe.digital/media/20220207195619/best-leather-jackets-men-the-jacket-maker-luxe-digital-780x520.jpg"
+    },
+    {
+      "name": "Watch",
+      "ratings": "4.5",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "High Quality",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "https://cdn.anscommerce.com/catalog/brandstore/johnson/17_7_20/Sale.jpg"
+    }
+  ]
+}
